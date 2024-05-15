@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>attachments/background.png</file>
+        <file>attachments/gif/1.gif</file>
+        <file>attachments/gif/2.gif</file>
+        <file>attachments/gif/3.gif</file>
+        <file>attachments/gif/4.gif</file>
+        <file>attachments/gif/6.gif</file>
+        <file>attachments/gif/7.gif</file>
+        <file>attachments/gif/8.gif</file>
+        <file>attachments/gif/5.gif</file>
+        <file>favicon.ico</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
